@@ -1,1 +1,2 @@
 Test pull request
+change private to public
